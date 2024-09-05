@@ -9,7 +9,7 @@ The Holy **Quran** app
 ![logo](https://raw.githubusercontent.com/haithamaouati/Quran/main/logo.png)
 
 ## Download
-[![download](https://img.shields.io/badge/download-APK-brightgreen?style=social)]([https://github.com/haithamaouati/Quran/blob/main/Quran.apk](https://raw.githubusercontent.com/haithamaouati/Quran/main/Quran.apk))
+[![download](https://img.shields.io/badge/download-APK-brightgreen?style=social)](https://raw.githubusercontent.com/haithamaouati/Quran/main/Quran.apk)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/haithamaouati/Quran/main/screenshot.jpg)
