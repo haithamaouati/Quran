@@ -9,7 +9,7 @@ The Holy **Quran** app
 ![logo](https://raw.githubusercontent.com/haithamaouati/Quran/main/logo.png)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/haithamaouati/Quran/main/Assets/screenshot1.jpg)
+![screenshot](https://raw.githubusercontent.com/haithamaouati/Quran/main/screenshot.jpg)
 
 ## Author
 Made with :coffee: by **Haitham Aouati**
