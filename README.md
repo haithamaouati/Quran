@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/haithamaouati/Quran)
+
 # Quran
 The Holy **Quran** app
 
