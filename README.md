@@ -1,3 +1,4 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/haithamaouati/Quran)
 ![GitHub License](https://img.shields.io/github/license/haithamaouati/Quran)
 
 # Quran
