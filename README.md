@@ -1,6 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/haithamaouati/Quran)
 ![GitHub watchers](https://img.shields.io/github/watchers/haithamaouati/Quran)
-![GitHub License](https://img.shields.io/github/license/haithamaouati/Quran)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/haithamaouati)
 
 # Quran
 The Holy **Quran** app
